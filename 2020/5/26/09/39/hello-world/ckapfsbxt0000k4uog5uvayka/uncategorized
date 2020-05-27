@@ -16,7 +16,7 @@
 
   <!-- 页面元数据 -->
   
-    <title>my first blog - 子正的博客</title>
+    <title>Hello World - 子正的博客</title>
   
   
 
@@ -345,8 +345,8 @@
         
           
   <h1 class="title">
-    <a href="/2020/5/26/09/43/my-first-blog/ckapfdctc0000g0uohx7zgpj3/uncategorized">
-      my first blog
+    <a href="/2020/5/26/09/39/hello-world/ckapfsbxt0000k4uog5uvayka/uncategorized">
+      Hello World
     </a>
   </h1>
 
@@ -399,7 +399,20 @@
       <section class="article typo">
         <div class="article-entry" itemprop="articleBody">
           
-          
+          <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+
           
             <div class='article_footer'>
               
@@ -435,7 +448,7 @@
           
         
           
-            <p>本文永久链接是：<a href=http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckapfdctc0000g0uohx7zgpj3/uncategorized>http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckapfdctc0000g0uohx7zgpj3/uncategorized</a></p>
+            <p>本文永久链接是：<a href=http://zizheng615.github.io/2020/5/26/09/39/hello-world/ckapfsbxt0000k4uog5uvayka/uncategorized>http://zizheng615.github.io/2020/5/26/09/39/hello-world/ckapfsbxt0000k4uog5uvayka/uncategorized</a></p>
           
         
       </blockquote>
@@ -486,7 +499,7 @@
     <div class='new-meta-box'>
       
         
-          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2020-05-26T09:43:32+08:00">
+          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2020-05-26T09:39:27+08:00">
   <a class='notlink'>
     <i class="fas fa-edit fa-fw" aria-hidden="true"></i>
     <p>更新于：2020年5月26日</p>
@@ -513,7 +526,7 @@
       
         <a class="-mob-share-qq" title="" rel="external nofollow noopener noreferrer"
           
-          href="http://connect.qq.com/widget/shareqq/index.html?url=http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckapfdctc0000g0uohx7zgpj3/uncategorized&title=my first blog - 子正的博客&summary="
+          href="http://connect.qq.com/widget/shareqq/index.html?url=http://zizheng615.github.io/2020/5/26/09/39/hello-world/ckapfsbxt0000k4uog5uvayka/uncategorized&title=Hello World - 子正的博客&summary="
           
           >
           
@@ -525,7 +538,7 @@
       
         <a class="-mob-share-qzone" title="" rel="external nofollow noopener noreferrer"
           
-          href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckapfdctc0000g0uohx7zgpj3/uncategorized&title=my first blog - 子正的博客&summary="
+          href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://zizheng615.github.io/2020/5/26/09/39/hello-world/ckapfsbxt0000k4uog5uvayka/uncategorized&title=Hello World - 子正的博客&summary="
           
           >
           
@@ -537,7 +550,7 @@
       
         <a class="-mob-share-weibo" title="" rel="external nofollow noopener noreferrer"
           
-          href="http://service.weibo.com/share/share.php?url=http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckapfdctc0000g0uohx7zgpj3/uncategorized&title=my first blog - 子正的博客&summary="
+          href="http://service.weibo.com/share/share.php?url=http://zizheng615.github.io/2020/5/26/09/39/hello-world/ckapfsbxt0000k4uog5uvayka/uncategorized&title=Hello World - 子正的博客&summary="
           
           >
           
@@ -561,17 +574,11 @@
         
           <div class="prev-next">
             
-              <a class='prev' href='/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckapfdcto0002g0uob6cq7q90/uncategorized'>
-                <p class='title'><i class="fas fa-chevron-left" aria-hidden="true"></i>我在想什么</p>
-                <p class='content'>What do I think of?
-</p>
+              <a class='prev' href='/2020/5/26/09/43/my-first-blog/ckapfsby30001k4uo8u2s4nti/uncategorized'>
+                <p class='title'><i class="fas fa-chevron-left" aria-hidden="true"></i>my first blog</p>
+                <p class='content'></p>
               </a>
             
-            
-              <a class='next' href='/2020/5/26/09/39/hello-world/ckapfdcvj0003g0uo2dzd06oj/uncategorized'>
-                <p class='title'>Hello World<i class="fas fa-chevron-right" aria-hidden="true"></i></p>
-                <p class='content'>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any ...</p>
-              </a>
             
           </div>
         
@@ -615,7 +622,7 @@
 
   <script>
     window.subData = {
-      title: 'my first blog',
+      title: 'Hello World',
       tools: true
     }
   </script>
@@ -630,6 +637,20 @@
     
     
 
+
+  <section class="widget toc-wrapper shadow desktop mobile">
+    
+  <header>
+    
+      <i class="fas fa-list fa-fw" aria-hidden="true"></i><span class='name'>本文目录</span>
+    
+  </header>
+
+
+    <div class='content'>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Quick-Start"><span class="toc-text">Quick Start</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Create-a-new-post"><span class="toc-text">Create a new post</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Run-server"><span class="toc-text">Run server</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Generate-static-files"><span class="toc-text">Generate static files</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Deploy-to-remote-sites"><span class="toc-text">Deploy to remote sites</span></a></li></ol></li></ol>
+    </div>
+  </section>
 
 
   
