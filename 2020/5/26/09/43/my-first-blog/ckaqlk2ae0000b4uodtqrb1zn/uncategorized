@@ -16,13 +16,13 @@
 
   <!-- 页面元数据 -->
   
-    <title>我在想什么 - 子正的博客</title>
+    <title>my first blog - Lzz&#39;s blog</title>
   
   
 
   <!-- feed -->
   
-    <link rel="alternate" href="/atom.xml" title="子正的博客">
+    <link rel="alternate" href="/atom.xml" title="Lzz's blog">
   
 
   <!-- import meta -->
@@ -92,8 +92,8 @@
           
           
           
+            Lzz's blog
           
-            VOLANTIS <b><sup style='color:#3AA757'>2.6.6</sup></b>
           
         </a>
       
@@ -205,7 +205,7 @@
       <div class="m_search">
         <form name="searchform" class="form u-search-form">
           <i class="icon fas fa-search fa-fw"></i>
-          <input type="text" class="input u-search-input" placeholder="Search..." />
+          <input type="text" class="input u-search-input" placeholder="" />
         </form>
       </div>
 
@@ -345,8 +345,8 @@
         
           
   <h1 class="title">
-    <a href="/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckaq6zvao0002xouoc8dp5w1t/uncategorized">
-      我在想什么
+    <a href="/2020/5/26/09/43/my-first-blog/ckaqlk2ae0000b4uodtqrb1zn/uncategorized">
+      my first blog
     </a>
   </h1>
 
@@ -359,7 +359,7 @@
             
               
 <div class='new-meta-item author'>
-  <a href="https://xaoxuu.com" target="_blank" rel="nofollow noopener">
+  <a href="https://zizheng615.github.io" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/zizheng615/tuchuang/img/2.jpg.jpg">
     <p>zizheng</p>
   </a>
@@ -376,7 +376,7 @@
               <div class="new-meta-item date">
   <a class='notlink'>
     <i class="fas fa-calendar-alt fa-fw" aria-hidden="true"></i>
-    <p>发布于：2020年5月26日</p>
+    <p>发布于：2020-05-26</p>
   </a>
 </div>
 
@@ -399,8 +399,7 @@
       <section class="article typo">
         <div class="article-entry" itemprop="articleBody">
           
-          <p>What do I think of?</p>
-
+          
           
             <div class='article_footer'>
               
@@ -431,12 +430,17 @@
       <blockquote>
         
           
+            <p>本文作者: Lzz</p>
+
+          
+        
+          
             <p>博客内容遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议</p>
 
           
         
           
-            <p>本文永久链接是：<a href=http://zizheng615.github.io/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckaq6zvao0002xouoc8dp5w1t/uncategorized>http://zizheng615.github.io/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckaq6zvao0002xouoc8dp5w1t/uncategorized</a></p>
+            <p>本文永久链接是：<a href=http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckaqlk2ae0000b4uodtqrb1zn/uncategorized>http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckaqlk2ae0000b4uodtqrb1zn/uncategorized</a></p>
           
         
       </blockquote>
@@ -457,15 +461,11 @@
     
       
         <div class='fancybox'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/qrcode/wiki_volantis.png'
-        
-          height='64px'
         ></div>
       
     
       
         <div class='fancybox'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/qrcode/wiki_volantis.png'
-        
-          height='64px'
         ></div>
       
     
@@ -487,10 +487,10 @@
     <div class='new-meta-box'>
       
         
-          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2020-05-26T18:10:51+08:00">
+          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2020-05-26T09:43:32+08:00">
   <a class='notlink'>
     <i class="fas fa-edit fa-fw" aria-hidden="true"></i>
-    <p>更新于：2020年5月26日</p>
+    <p>更新于：2020-05-26</p>
   </a>
 </div>
 
@@ -514,7 +514,7 @@
       
         <a class="-mob-share-qq" title="" rel="external nofollow noopener noreferrer"
           
-          href="http://connect.qq.com/widget/shareqq/index.html?url=http://zizheng615.github.io/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckaq6zvao0002xouoc8dp5w1t/uncategorized&title=我在想什么 - 子正的博客&summary="
+          href="http://connect.qq.com/widget/shareqq/index.html?url=http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckaqlk2ae0000b4uodtqrb1zn/uncategorized&title=my first blog - Lzz's blog&summary="
           
           >
           
@@ -526,7 +526,7 @@
       
         <a class="-mob-share-qzone" title="" rel="external nofollow noopener noreferrer"
           
-          href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://zizheng615.github.io/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckaq6zvao0002xouoc8dp5w1t/uncategorized&title=我在想什么 - 子正的博客&summary="
+          href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckaqlk2ae0000b4uodtqrb1zn/uncategorized&title=my first blog - Lzz's blog&summary="
           
           >
           
@@ -538,7 +538,7 @@
       
         <a class="-mob-share-weibo" title="" rel="external nofollow noopener noreferrer"
           
-          href="http://service.weibo.com/share/share.php?url=http://zizheng615.github.io/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckaq6zvao0002xouoc8dp5w1t/uncategorized&title=我在想什么 - 子正的博客&summary="
+          href="http://service.weibo.com/share/share.php?url=http://zizheng615.github.io/2020/5/26/09/43/my-first-blog/ckaqlk2ae0000b4uodtqrb1zn/uncategorized&title=my first blog - Lzz's blog&summary="
           
           >
           
@@ -562,18 +562,16 @@
         
           <div class="prev-next">
             
-              <a class='prev' href='/2020/5/27/17/44/%E5%B0%9D%E8%AF%95typora/ckaq6zvar0004xouo3tcqf13k/uncategorized'>
-                <p class='title'><i class="fas fa-chevron-left" aria-hidden="true"></i>尝试typora</p>
-                <p class='content'>This is my python’s language1print("hello world!\n")
-
-You can ran ./install.sh  to install hexo.
-...</p>
+              <a class='prev' href='/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckaqlk2ar0004b4uo6hs25fx5/uncategorized'>
+                <p class='title'><i class="fas fa-chevron-left" aria-hidden="true"></i>我在想什么</p>
+                <p class='content'>What do I think of?
+</p>
               </a>
             
             
-              <a class='next' href='/2020/5/26/09/43/my-first-blog/ckaq6zvae0001xouofu348vlf/uncategorized'>
-                <p class='title'>my first blog<i class="fas fa-chevron-right" aria-hidden="true"></i></p>
-                <p class='content'></p>
+              <a class='next' href='/2020/5/26/09/39/hello-world/ckaqlk2at0005b4uoc4d6ebic/uncategorized'>
+                <p class='title'>Hello World<i class="fas fa-chevron-right" aria-hidden="true"></i></p>
+                <p class='content'>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any ...</p>
               </a>
             
           </div>
@@ -618,7 +616,7 @@ You can ran ./install.sh  to install hexo.
 
   <script>
     window.subData = {
-      title: '我在想什么',
+      title: 'my first blog',
       tools: true
     }
   </script>
@@ -698,7 +696,7 @@ You can ran ./install.sh  to install hexo.
             
           
             
-              <a href="https://music.163.com/#/user/home?id=63035382"
+              <a href="https://music.163.com/#/user/home?id=453317688"
                 class="social fas fa-headphones-alt flat-btn"
                 target="_blank"
                 rel="external nofollow noopener noreferrer">
