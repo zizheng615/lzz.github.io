@@ -86,6 +86,52 @@
     
       <p class="subtitle">动脑筋思考，思考何去何从</p>
     
+
+<!-- 封面滚动字体 -->
+<div id="binft"></div> 
+<script>
+    var binft = function (r) {
+      function t() {
+        return b[Math.floor(Math.random() * b.length)]
+      }  
+      function e() {
+        return String.fromCharCode(94 * Math.random() + 33)
+      }
+      function n(r) {
+        for (var n = document.createDocumentFragment(), i = 0; r > i; i++) {
+          var l = document.createElement("span");
+          l.textContent = e(), l.style.color = t(), n.appendChild(l)
+        }
+        return n
+      }
+      function i() {
+        var t = o[c.skillI];
+        c.step ? c.step-- : (c.step = g, c.prefixP < l.length ? (c.prefixP >= 0 && (c.text += l[c.prefixP]), c.prefixP++) : "forward" === c.direction ? c.skillP < t.length ? (c.text += t[c.skillP], c.skillP++) : c.delay ? c.delay-- : (c.direction = "backward", c.delay = a) : c.skillP > 0 ? (c.text = c.text.slice(0, -1), c.skillP--) : (c.skillI = (c.skillI + 1) % o.length, c.direction = "forward")), r.textContent = c.text, r.appendChild(n(c.prefixP < l.length ? Math.min(s, s + c.prefixP) : Math.min(s, t.length - c.skillP))), setTimeout(i, d)
+      }
+      var l = "",
+      o = ["一蓑烟雨任平生", "人生若只如初见，何事秋风悲画扇。","十年生死两茫茫，不思量，自难忘。", "曾经沧海难为水，除却巫山不是云。","洛中何郁郁，冠带自相索。","只愿君心似我心，定不负相思意。","愿得一心人，白头不相离。","入我相思门，知我相思苦。"].map(function (r) {
+      return r + ""
+      }),
+      a = 2,
+      g = 1,
+      s = 5,
+      d = 75,
+      b = ["rgb(110,64,170)", "rgb(150,61,179)", "rgb(191,60,175)", "rgb(228,65,157)", "rgb(254,75,131)", "rgb(255,94,99)", "rgb(255,120,71)", "rgb(251,150,51)", "rgb(226,183,47)", "rgb(198,214,60)", "rgb(175,240,91)", "rgb(127,246,88)", "rgb(82,246,103)", "rgb(48,239,130)", "rgb(29,223,163)", "rgb(26,199,194)", "rgb(35,171,216)", "rgb(54,140,225)", "rgb(76,110,219)", "rgb(96,84,200)"],
+      c = {
+        text: "",
+        prefixP: -s,
+        skillI: 0,
+        skillP: 0,
+        direction: "forward",
+        delay: a,
+        step: g
+      };
+      i()
+      };
+      binft(document.getElementById('binft'));
+  </script>
+
+
   </div>
   <div class='b'>
     
@@ -165,7 +211,7 @@
     <div id="loading-bar-wrapper">
   <div id="loading-bar"></div>
 </div>
-<header class="l_header shadow blur">
+<header class="l_header shadow">
   <div class='container'>
   <div class='wrapper'>
     <div class='nav-sub'>
@@ -455,7 +501,7 @@
         
           
   <h2 class="title">
-    <a href="/2020/5/27/17/44/%E5%B0%9D%E8%AF%95typora/ckapfsby50002k4uoeyz44cy6/uncategorized">
+    <a href="/2020/5/27/17/44/%E5%B0%9D%E8%AF%95typora/ckaq4e0gn0001ecuoclguai7p/uncategorized">
       尝试typora
     </a>
   </h2>
@@ -550,7 +596,7 @@
         
           
   <h2 class="title">
-    <a href="/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckapfsby70003k4uoh9a15rj4/uncategorized">
+    <a href="/2020/5/26/17/59/%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/ckaq4e0gp0002ecuobd8yggpg/uncategorized">
       我在想什么
     </a>
   </h2>
@@ -636,7 +682,7 @@
         
           
   <h2 class="title">
-    <a href="/2020/5/26/09/43/my-first-blog/ckapfsby30001k4uo8u2s4nti/uncategorized">
+    <a href="/2020/5/26/09/43/my-first-blog/ckaq4e0gf0000ecuo1nfpgepk/uncategorized">
       my first blog
     </a>
   </h2>
@@ -721,7 +767,7 @@
         
           
   <h2 class="title">
-    <a href="/2020/5/26/09/39/hello-world/ckapfsbxt0000k4uog5uvayka/uncategorized">
+    <a href="/2020/5/26/09/39/hello-world/ckaq4e0jw0003ecuo4axzdzdw/uncategorized">
       Hello World
     </a>
   </h2>
@@ -855,7 +901,7 @@
           
         
           
-            <a href="mailto:me@xaoxuu.com"
+            <a href="mailto:m13679035687@163.com"
               class="social fas fa-envelope flat-btn"
               target="_blank"
               rel="external nofollow noopener noreferrer">
@@ -863,7 +909,7 @@
           
         
           
-            <a href="https://github.com/xaoxuu"
+            <a href="https://github.com/zizheng615"
               class="social fab fa-github flat-btn"
               target="_blank"
               rel="external nofollow noopener noreferrer">
@@ -944,7 +990,7 @@
             
           
             
-              <a href="mailto:me@xaoxuu.com"
+              <a href="mailto:m13679035687@163.com"
                 class="social fas fa-envelope flat-btn"
                 target="_blank"
                 rel="external nofollow noopener noreferrer">
@@ -952,7 +998,7 @@
             
           
             
-              <a href="https://github.com/xaoxuu"
+              <a href="https://github.com/zizheng615"
                 class="social fab fa-github flat-btn"
                 target="_blank"
                 rel="external nofollow noopener noreferrer">
@@ -986,7 +1032,7 @@
     
       
         <div class='copyright'>
-        <p><a href="https://xaoxuu.com" target="_blank" rel="noopener">Copyright © 2017-2020 Mr. X</a></p>
+        <p><a href="https://zizheng615.github.io">Copyright © 2017-2020 Lzz</a></p>
 
         </div>
       
@@ -1004,7 +1050,8 @@
 	
 
 
-      <script>setLoadingBarProgress(60);</script>
+      <script src="https://cdn.jsdelivr.net/gh/zyoushuo/Blog/hexo/js/mouse_slide.js"></script>
+
     </div>
     <a class="s-top fas fa-arrow-up fa-fw" href='javascript:void(0)'></a>
   </div>
